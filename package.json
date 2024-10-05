@@ -1,0 +1,24 @@
+{
+  "name": "@editide/awesome-js-regex",
+  "version": "1.0.0",
+  "description": "Awesome JavaScript Regexes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edit-IDE/awesome-js-regex.git"
+  },
+  "keywords": [
+    "js",
+    "regex"
+  ],
+  "author": "EditIDE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edit-IDE/awesome-js-regex/issues"
+  },
+  "homepage": "https://github.com/Edit-IDE/awesome-js-regex#readme"
+}
